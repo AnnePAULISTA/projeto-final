@@ -70,7 +70,7 @@ function Tips() {
 
       <img
         className="image-tips"
-        src="https://ibb.co/02zWv62"
+        src="https://cdn.discordapp.com/attachments/835234743108632578/1002788550162514012/WhatsApp_Image_2022-07-30_at_00.54.50_1.jpeg?width=360&height=385"
         alt="Imagem de três crianças olhando pra cima"
       />
 

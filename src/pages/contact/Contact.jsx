@@ -8,12 +8,22 @@ function Contact() {
 
       <div className="contato">
         <img
-          src="https://ibb.co/9gMwmBd"
+          src="https://cdn.discordapp.com/attachments/835234743108632578/1002788549940220034/WhatsApp_Image_2022-07-30_at_00.54.51.jpeg?width=466&height=385"
           alt="Imagem de menina com megafone"
         />
         <form className="form-container">
-          <input className="container" type="text" placeholder="Nome" required />
-          <input className="container" type="email" placeholder="Email" required />
+          <input
+            className="container"
+            type="text"
+            placeholder="Nome"
+            required
+          />
+          <input
+            className="container"
+            type="email"
+            placeholder="Email"
+            required
+          />
           <input
             className="container-msg"
             placeholder="Envie sua mensagem"
