@@ -4,7 +4,7 @@ import "./menu.css";
 function Menu() {
   return (
     <ul className="menu">
-      <img className="logotype" src="../src/assets/LOGO.png"></img>
+      <img className="logotype" src="https://ibb.co/jMyC8pV"></img>
       <li className="item">
         <Link className="link" to="/">
           Home

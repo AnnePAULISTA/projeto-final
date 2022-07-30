@@ -70,7 +70,7 @@ function Tips() {
 
       <img
         className="image-tips"
-        src="../src/assets/tips-image.png"
+        src="https://ibb.co/02zWv62"
         alt="Imagem de três crianças olhando pra cima"
       />
 

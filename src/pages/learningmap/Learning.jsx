@@ -6,7 +6,7 @@ function Learning() {
   return (
     <>
       <Header></Header>
-      <img className="fluxogram" src="../src/assets/fluxograma.png" />
+      <img className="fluxogram" src="https://ibb.co/vJJ618x" />
       <a href="https://www.soescola.com/2017/03/fases-da-alfabetizacao-da-crianca.html">
         <button class="learn-more">Saiba mais!</button>
       </a>

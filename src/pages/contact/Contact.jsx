@@ -8,7 +8,7 @@ function Contact() {
 
       <div className="contato">
         <img
-          src="../src/assets/contact-page.png"
+          src="https://ibb.co/9gMwmBd"
           alt="Imagem de menina com megafone"
         />
         <form className="form-container">
