@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import logo from "../../assets/LOGO.png";
 import "./menu.css";
 
 function Menu() {
@@ -6,7 +7,7 @@ function Menu() {
     <ul className="menu">
       <img
         className="logotype"
-        src="https://uploaddeimagens.com.br/images/003/963/387/full/LOGO.png?1659187410"
+        src={logo} alt="lâmpada colorida com nome do site abaixo"
       ></img>
       <li className="item">
         <Link className="link" to="/">
