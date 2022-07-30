@@ -8,7 +8,7 @@ function Contact() {
 
       <div className="contato">
         <img
-          src="https://cdn.discordapp.com/attachments/835234743108632578/1002788549940220034/WhatsApp_Image_2022-07-30_at_00.54.51.jpeg?width=466&height=385"
+          src="https://i.ibb.co/PjSTsJV/contact-page.png"
           alt="Imagem de menina com megafone"
         />
         <form className="form-container">

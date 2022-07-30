@@ -5,8 +5,7 @@ function Menu() {
   return (
     <ul className="menu">
       <img
-        className="logotype"
-        src="https://cdn.discordapp.com/attachments/835234743108632578/1002788550435156009/WhatsApp_Image_2022-07-30_at_00.54.50.jpeg?width=385&height=385"
+        className="logotype" sc="https://i.ibb.co/4T8bFQs/LOGO.png"
       ></img>
       <li className="item">
         <Link className="link" to="/">
