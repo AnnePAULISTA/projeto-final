@@ -5,7 +5,7 @@ function Menu() {
   return (
     <ul className="menu">
       <img
-        className="logotype" sc="https://i.ibb.co/4T8bFQs/LOGO.png"
+        className="logotype" sc="https://uploaddeimagens.com.br/imagens/j1Razyc"
       ></img>
       <li className="item">
         <Link className="link" to="/">
