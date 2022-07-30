@@ -1,0 +1,49 @@
+h1 {
+  font-weight: 550;
+  display: flex;
+  justify-content: center;
+  color:#cf4647;
+}
+
+.contato {
+display:flex;
+align-items: center;
+}
+
+.contato img{
+  width: 600px;
+  height: 500px;
+}
+
+.form-container {
+   gap:10px;
+  display: flex;
+  margin-top: 47px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container, .container-msg {
+  height: 50px;
+  width: 400px;
+  margin: 1px;
+  padding: 5px;
+  border-radius: 25px;
+}
+
+.container-msg {
+  height: 120px;
+}
+
+button {
+  border-radius: 25px;
+  color:#ffff;
+  margin-right: 190px;
+  padding: 15px;
+}
+
+.click {
+  width: 200px;
+  margin-top: 1px;
+  background: #cf4647;
+}

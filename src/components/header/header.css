@@ -1,0 +1,14 @@
+.header {
+  padding: 5px;
+  text-align: center;
+  color:#e5ddcb;
+  background-size: auto;
+  height: 60px;
+  margin-bottom: 1px;
+}
+
+.header h1 {
+  font-size: 40px;
+}
+
+

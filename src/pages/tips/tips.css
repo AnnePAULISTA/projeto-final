@@ -1,0 +1,100 @@
+.image-tips {
+  width: 900px;
+  height: 940px;
+  margin-bottom: -6px;
+  margin-left: 210px;
+  margin-top: -390px;
+}
+
+.box-tips {
+  padding: 5px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: -90px;
+}
+
+.card-tips1 {
+  margin: 25px;
+  justify-content: space-around;
+  border-color: #eb7b59;
+  background-color: #eb7b59;
+  padding: 10px;
+  border-radius: 30px;
+}
+
+.card-tips1:hover {
+    transform: scale(0.95);
+    transition: all 0.3s;
+}
+
+.card-tips2 {
+  margin: 25px;
+  justify-content: space-around;
+  border-color: #80278c;
+  background-color: #80278c;
+  padding: 10px;
+  border-radius: 30px;
+}
+
+.card-tips2:hover {
+    transform: scale(0.95);
+    transition: all 0.3s;
+}
+
+.card-tips3 {
+  margin: 25px;
+  justify-content: space-around;
+  border-color: #fcdc78;
+  background-color: #fcdc78;
+  padding: 10px;
+  border-radius: 30px;
+}
+
+.card-tips3:hover {
+    transform: scale(0.95);
+    transition: all 0.3s;
+}
+
+.card-tips4 {
+  margin: 25px;
+  justify-content: space-around;
+  border-color: #a7c5bd;
+  background-color: #a7c5bd;
+  padding: 10px;
+  border-radius: 30px;
+}
+
+.card-tips4:hover {
+    transform: scale(0.95);
+    transition: all 0.3s;
+}
+
+.card-tips5 {
+  margin: 25px;
+  justify-content: space-around;
+  border-color: #d7b2d5;
+  background-color: #d7b2d5;
+  padding: 10px;
+  border-radius: 30px;
+}
+
+.card-tips5:hover {
+    transform: scale(0.95);
+    transition: all 0.3s;
+}
+
+.card-tips6 {
+  margin: 25px;
+  justify-content: space-around;
+  border-color: #cf4647;
+  background-color: #cf4647;
+  padding: 25px;
+  border-radius: 30px;
+}
+
+.card-tips6:hover{
+    transform: scale(0.95);
+    transition: all 0.3s;
+}
+
+
